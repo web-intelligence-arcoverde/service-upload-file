@@ -1,5 +1,6 @@
 # Tasks
 
+- adicionar gitignore ( remover node_modules,package-lock e yarn-lock e uploads )
 - ajustar nodemon ( não está atualizando quando eu altero algo )
 - criar link da imagem
 - remover pg
